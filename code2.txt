@@ -1,1 +1,2 @@
 this is code2's first line
+this is new lines
